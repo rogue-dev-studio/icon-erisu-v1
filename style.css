@@ -1,10 +1,7 @@
 @font-face {
   font-family: 'erisuv1';
-  src:  url('fonts/erisuv1.eot?w7n5da');
-  src:  url('fonts/erisuv1.eot?w7n5da#iefix') format('embedded-opentype'),
-    url('fonts/erisuv1.ttf?w7n5da') format('truetype'),
-    url('fonts/erisuv1.woff?w7n5da') format('woff'),
-    url('fonts/erisuv1.svg?w7n5da#erisuv1') format('svg');
+  src: url('fonts/erisuv1.woff?w7n5da') format('woff'),
+       url('fonts/erisuv1.ttf?w7n5da') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: block;
